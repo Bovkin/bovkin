@@ -1,16 +1,13 @@
 ### Hi there 👋
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bovkin&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bovkin&layout=compact" />
+</a>
 
-<!--
-**Bovkin/bovkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Abstract 🖖
+- :technologist: :brazil: My name is Elton Igor.
+- :school:I'm currently a student at Universidade Federal de Mato Grosso do Sul.
+- :mortar_board: Learning more about and studying: NodeJS, JS, C/C++ and Java.
