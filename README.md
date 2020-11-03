@@ -17,7 +17,7 @@
 ### Abstract 🖖
 - :technologist: :brazil: My name is Elton Igor.
 - :school: I'm currently a student Information Systems at Universidade Federal de Mato Grosso do Sul.
-- :mortar_board: Learning more about and studying: NodeJS, JS, C/C++ and Java.
+- :mortar_board: Learning more about and studying: NodeJS, JS, Python, C/C++ and Java.
 
 ### Find me at 🤙
 
