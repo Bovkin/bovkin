@@ -16,7 +16,7 @@
 
 ### Abstract 🖖
 - :technologist: :brazil: My name is Elton Igor.
-- :school: I'm currently an RPA Developer | UiPath at Suzano S/A and student Information Systems at Universidade Federal de Mato Grosso do Sul.
+- :school: I'm currently an RPA Developer | UiPath and student Information Systems at Universidade Federal de Mato Grosso do Sul.
 - :mortar_board: Knowledge in Java, C/C++, JS, Python, VB/VBA, SQL(MySQL, SQL, and PostgreSQL), NoSQL(MongoDB), and UiPath.
 
 
